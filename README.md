@@ -7,7 +7,7 @@
 
 <h3><span>Para acessar a página, </span> <a href="https://kleitonmq.github.io/Calculagorjeta/">clique aqui.</a></h3>
 <br>
-<h4 align="center">Screenshots em navegador desktop.</h4>
+<h4 align="center">Screenshots.</h4>
 <div align="center">
 <img src="src/Screenshot/Screenshot1.png" alt="Exemplo1" height="300">
 <img src="src/Screenshot/Screenshot2.png" alt="Exemplo2" height="300">
