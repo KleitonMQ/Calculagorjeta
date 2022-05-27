@@ -1,5 +1,5 @@
 <body>
-    <h1 align="center">Calculadora de gorgeta <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" alt="VSCode" height="25"> </h1> 
+    <h1 align="center">Calculadora de gorjeta <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" alt="VSCode" height="25"> </h1> 
 <h2 align="center">Pagina web, responsiva, criada com: CSS, HTML e JavaScritp</h2>
 <br>
 
