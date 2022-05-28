@@ -9,9 +9,9 @@
 <br>
 <h4 align="center">Screenshots.</h4>
 <div align="center">
-<img src="src/Screenshot/Screenshot1.png" alt="Exemplo1" height="300">
-<img src="src/Screenshot/Screenshot2.png" alt="Exemplo2" height="300">
-<img src="src/Screenshot/Screenshot3.png" alt="exemplo3" height="300">
+<img src="src/Screenshot/Screenshot1.png" alt="Exemplo1" height="500">
+<img src="src/Screenshot/Screenshot2.png" alt="Exemplo2" height="500">
+<img src="src/Screenshot/Screenshot3.png" alt="exemplo3" height="500">
 </div>
 
 </body>
