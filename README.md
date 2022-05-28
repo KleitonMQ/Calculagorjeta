@@ -3,7 +3,7 @@
 <h2 align="center">Pagina web, responsiva, criada com: CSS, HTML e JavaScritp</h2>
 <br>
 
-<h3>Praticando estrutura do HTML, manipulação de padding, border e margin. Responsividade e eventos de mouse como click e hover, tratamento de exceções e calculos lógicos passando dados do HTML para o JavaScript.<h3>
+<h3>Praticando estrutura do HTML, manipulação de padding, border e margin. Responsividade, eventos de mouse como click e hover, tratamento de exceções e calculos lógicos passando dados do HTML para o JavaScript.<h3>
 
 <h3><span>Para acessar à página, </span> <a href="https://kleitonmq.github.io/Calculagorjeta/">clique aqui.</a></h3>
 <br>
